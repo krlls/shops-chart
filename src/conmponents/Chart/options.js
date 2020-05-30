@@ -20,8 +20,8 @@ const xAxisData = dataToDate(demoData)
 
 export const options = {
   grid: {
-    left: -30,
-    right: 30,
+    left: -60,
+    right: 29,
     top: 10,
     bottom: 0,
     containLabel: true,
