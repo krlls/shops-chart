@@ -4,6 +4,7 @@ export const pointIcon = 'image://data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAi
 
 export const tooltipFormatter = (params) => {
   const { value, date } = params[0].data
+  const { dataIndex } = params[0]
   const formattedDate = moment(date).format('DD MMM YYYY')
 
   const styleTooltip = `
@@ -38,6 +39,10 @@ export const tooltipFormatter = (params) => {
     color: #A19FB0;
     font-size: 13px;
   `
+
+  if (!dataIndex) {
+    return ''
+  }
 
   return `
     <div style="${styleTooltip}">
