@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.d20e3d1b.chunk.css",
-    "main.js": "/static/js/main.86a68a56.chunk.js",
-    "main.js.map": "/static/js/main.86a68a56.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0cbf6096.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0cbf6096.js.map",
-    "static/js/2.f4bfa36a.chunk.js": "/static/js/2.f4bfa36a.chunk.js",
-    "static/js/2.f4bfa36a.chunk.js.map": "/static/js/2.f4bfa36a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.e76b9de5425a7fe7bc7ca07054f61a4f.js": "/precache-manifest.e76b9de5425a7fe7bc7ca07054f61a4f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.d20e3d1b.chunk.css.map": "/static/css/main.d20e3d1b.chunk.css.map",
-    "static/js/2.f4bfa36a.chunk.js.LICENSE.txt": "/static/js/2.f4bfa36a.chunk.js.LICENSE.txt",
-    "static/media/icon.svg": "/static/media/icon.c015845a.svg"
+    "main.css": "/krlls/shops-chart/static/css/main.4d894fd6.chunk.css",
+    "main.js": "/krlls/shops-chart/static/js/main.86a68a56.chunk.js",
+    "main.js.map": "/krlls/shops-chart/static/js/main.86a68a56.chunk.js.map",
+    "runtime-main.js": "/krlls/shops-chart/static/js/runtime-main.7f92340c.js",
+    "runtime-main.js.map": "/krlls/shops-chart/static/js/runtime-main.7f92340c.js.map",
+    "static/js/2.f4bfa36a.chunk.js": "/krlls/shops-chart/static/js/2.f4bfa36a.chunk.js",
+    "static/js/2.f4bfa36a.chunk.js.map": "/krlls/shops-chart/static/js/2.f4bfa36a.chunk.js.map",
+    "index.html": "/krlls/shops-chart/index.html",
+    "precache-manifest.46cdfa25b9e17807e1ee121762e73dc4.js": "/krlls/shops-chart/precache-manifest.46cdfa25b9e17807e1ee121762e73dc4.js",
+    "service-worker.js": "/krlls/shops-chart/service-worker.js",
+    "static/css/main.4d894fd6.chunk.css.map": "/krlls/shops-chart/static/css/main.4d894fd6.chunk.css.map",
+    "static/js/2.f4bfa36a.chunk.js.LICENSE.txt": "/krlls/shops-chart/static/js/2.f4bfa36a.chunk.js.LICENSE.txt",
+    "static/media/icon.svg": "/krlls/shops-chart/static/media/icon.c015845a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0cbf6096.js",
+    "static/js/runtime-main.7f92340c.js",
     "static/js/2.f4bfa36a.chunk.js",
-    "static/css/main.d20e3d1b.chunk.css",
+    "static/css/main.4d894fd6.chunk.css",
     "static/js/main.86a68a56.chunk.js"
   ]
 }
