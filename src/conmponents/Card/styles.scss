@@ -1,0 +1,13 @@
+
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 524px;
+  height: 304px;
+  background: #FFFFFF;
+  border: 1px solid rgba(161, 159, 176, 0.12);
+  box-sizing: border-box;
+  box-shadow: 0 8px 32px rgba(18, 16, 37, 0.03);
+  border-radius: 12px;
+  padding-bottom: 20px;
+}

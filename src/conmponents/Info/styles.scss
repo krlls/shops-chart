@@ -1,0 +1,57 @@
+.info {
+  position: absolute;
+  width: 100%;
+  z-index: 10;
+
+  &--test {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 16px 20px 16px;
+  }
+
+  &--title {
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: rgba(18, 16, 37, 0.5);
+   }
+
+  &--cost {
+    font-weight: 200;
+    font-size: 32px;
+    line-height: 32px;
+    margin-right: 8px;
+    color: #121025;
+
+    &--duration {
+      font-weight: 500;
+      font-size: 11px;
+      line-height: 16px;
+      color: #3EC0AD;
+    }
+
+    &-wrapper {
+      display: flex;
+      align-items: center;
+      margin-top: 8px;
+    }
+  }
+
+  &--left-label {
+    font-size: 13px;
+    font-weight: 500;
+    margin-right: 16px;
+    color: #3EC0AD;
+
+    &--wrapper {
+      position: relative;
+      bottom: 10px;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+    }
+  }
+}
+
