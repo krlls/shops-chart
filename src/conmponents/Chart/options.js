@@ -5,7 +5,6 @@ import { pointIcon, tooltipFormatter, labelFormatter } from './vievs'
 import { dataToDate, tooltipPosition } from './utils'
 import demoData from '../../data'
 
-
 const colors = {
   greenGradient: new echarts.graphic.LinearGradient(0, 0, 0, 1.2, [{ offset: 0, color: 'rgba(62, 192, 173, 0.2)' }, { offset: 1, color: 'rgba(62, 192, 173, 0)' }]),
   grayGradient: new echarts.graphic.LinearGradient(0, 0, 0, 2, [{ offset: 0, color: 'rgba(161, 159, 176, 0)' }, { offset: 1, color: 'rgba(161, 159, 176, 0.2)' }]),
