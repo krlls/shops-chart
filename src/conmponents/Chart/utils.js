@@ -11,9 +11,8 @@ export const tooltipPosition = (point, params, dom, rect, size, option) => {
   let x = 0
   let y = 0
 
-  x = ((viewSize[0] - 12) / (data.length - 1)) * params[0].dataIndex - (contentSize[0] / 2) + 6
-  y = ((contentSize[1] / 100) * ((currentItem / maxItem) * 100))
-  y = contentSize[1] - y
+  x = ((viewSize[0] - 12) / (data.length - 1)) * params[0].dataIndex - (contentSize[0] / 2) - 6
+  y = (contentSize[1]) - ((contentSize[1] / 100) * ((currentItem / maxItem) * 100))
 
   if (y < 0) {
     y = 0
