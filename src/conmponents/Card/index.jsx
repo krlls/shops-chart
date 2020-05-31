@@ -5,7 +5,7 @@ import './styles.scss'
  const Card = (props) => {
   return (
     <div className={'card'}>
-      {props?.children}
+      {props.children}
     </div>
   )
 }
