@@ -6,7 +6,7 @@
   "dependencies": {
     "echarts": "^4.8.0",
     "echarts-for-react": "^2.0.16",
-    "moment": "^2.26.0",
+    "moment": "^2.29.2",
     "node-sass": "^4.14.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
